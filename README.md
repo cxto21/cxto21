@@ -1,6 +1,6 @@
 ![Imgur, animation by orboloops8: https://imgur.com/user/orboloops8](https://i.pinimg.com/originals/b1/d1/00/b1d100da7182c5bbd1f55614c83be6ed.gif)
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/640px-Computer-screen-code-glitch-animation-gif-background-free.gif" width="535">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/640px-Computer-screen-code-glitch-animation-gif-background-free.gif" width="355">
 
 ```sh
 Last login: Fri, 08 Nov 2024 at 08:33:47 +03
