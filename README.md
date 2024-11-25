@@ -9,7 +9,7 @@ $ # Documenting my learning process
 $ ls ~/interests
 ☁️ cloud 💻 devops 🌐 open-source 🌕 linux 🐍 code 🪸 Structure
 
-$ # Visit my website to see more about my interests and experiences
+$ # In my website you can see more about my interests and experiences
 $ ping -c 1 ignaciodelcorro.me | head -n 1
 PING ignaciodelcorro.me (185.199.111.153) 56(84) bytes of data.
 ```
