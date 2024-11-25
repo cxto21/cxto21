@@ -2,7 +2,7 @@
 Last login: Fri, 25 Nov 2024 at 10:33:47 +03
 
 $ echo "hello world, i'm $(whoami)."
-Hello world, im Ignacio. An autodidact IT Researcher from Córdoba, Argentina 🇦🇷
+Hello world, i'm Ignacio. An autodidact IT Researcher from Córdoba, Argentina 🇦🇷
 
 $ # Learning about DevOps tools and culture
 $ # Documenting my learning process
