@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: "https://ignaciodelcorro.me"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://avatars.githubusercontent.com/u/101372852?v=4
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
