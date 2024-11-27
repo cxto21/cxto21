@@ -1,8 +1,8 @@
 ---
 title: Some Useful Network Tools for Linux
 date: 2024-11-22 10H:16:00 -0300
-categories: [Distributed Systems, Networks]
-#tags: [distributed-systems, networks, linux-network-tools]
+categories: [Distributed, Networks]
+tags: [networks, linux-network-tools]
 author: 0
 description:
 image:
