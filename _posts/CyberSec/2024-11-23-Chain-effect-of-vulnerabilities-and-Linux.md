@@ -64,4 +64,4 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-This example demonstrates how a buffer overflow vulnerability can lead to severe security incidents, emphasizing the importance of secure coding practices and regular security audits as [Secutiry Controls in DevOps and Pipeline](posts/2024-11-23-Preventive-Security-Controls.md)
+This example demonstrates how a buffer overflow vulnerability can lead to severe security incidents, emphasizing the importance of secure coding practices and regular security audits as [Secutiry Controls in DevOps and Pipeline](_site/posts/2024-11-23-Preventive-Security-Controls.md)
